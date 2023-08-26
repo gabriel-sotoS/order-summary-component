@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+main {
+    width: 390px;
+    margin-top: 35px;
+}
+
+img#hero {
+    width: 390px;
+}
+
+
+
+div#field {
+    width: 368px;
+}
+
+p.bold {
+    margin-left: 9px;
+    text-align: center;
+}
+
+p.pricing {
+    margin-left: 20px;
+}
+
+button {
+    width: 330px;
+}
+
+div.attribution {
+    margin-top: 10px;
+}
